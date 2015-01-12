@@ -1,0 +1,25 @@
+{
+  "name": "gcloud-ascii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "gcloud-cloud": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenplusplus/gcloud-ascii"
+  },
+  "keywords": [
+    "gcloud-node",
+    "ascii",
+    "art",
+    "gcloud"
+  ],
+  "author": "Stephen Sawchuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenplusplus/gcloud-ascii/issues"
+  },
+  "homepage": "https://github.com/stephenplusplus/gcloud-ascii"
+}
