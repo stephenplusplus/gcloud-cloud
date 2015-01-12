@@ -1,7 +1,7 @@
 # gcloud-cloud
 
 ```sh
-$ npm install -g gcloud-cloud
+$ npm install -g gcloud-ascii
 $ gcloud-cloud
  __ __ __ __
 (__.__.__.__)
